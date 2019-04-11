@@ -1,0 +1,58 @@
+# Blender MTL File: 'home_sunda_final.blend'
+# Material Count: 5
+
+newmtl col_anak_tangga
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.013908 0.005472 0.001690
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl col_batu_penahan
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.181257 0.181257 0.181257
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl uv_ding2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.168456 0.026033
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump -bm 0.200000 H:\\Desktop\\3D Graphics\\51.FirstTerrain\\3dgp\\models\\home_sunda\\Texturizer\\ee85c523aafff237f32416e5fe276114.jpg
+map_Kd H:\\Desktop\\3D Graphics\\51.FirstTerrain\\3dgp\\models\\home_sunda\\Texturizer\\ee85c523aafff237f32416e5fe276114.jpg
+
+newmtl uv_floor
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.180628 0.079602
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump -bm 0.200000 H:\\Desktop\\3D Graphics\\51.FirstTerrain\\3dgp\\models\\home_sunda\\Texturizer\\roof_1.jpg
+map_Kd H:\\Desktop\\3D Graphics\\51.FirstTerrain\\3dgp\\models\\home_sunda\\Texturizer\\roof_1.jpg
+
+newmtl uv_floor.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.519996 0.077856 0.020484
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump -bm 0.800000 H:\\Desktop\\3D Graphics\\51.FirstTerrain\\3dgp\\models\\home_sunda\\Texturizer\\wood_pejangga.png
+map_Kd H:\\Desktop\\3D Graphics\\51.FirstTerrain\\3dgp\\models\\home_sunda\\Texturizer\\wood_pejangga.png
